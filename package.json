@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.io/jaysmitjadhav/meme-generator",
-  "name": "take1",
+  "name": "meme-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
