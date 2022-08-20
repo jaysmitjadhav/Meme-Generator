@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jaysmitjadhav/meme-generator/static/css/main.d78b77bf.css",
+    "main.js": "/jaysmitjadhav/meme-generator/static/js/main.90755edf.js",
+    "index.html": "/jaysmitjadhav/meme-generator/index.html",
+    "main.d78b77bf.css.map": "/jaysmitjadhav/meme-generator/static/css/main.d78b77bf.css.map",
+    "main.90755edf.js.map": "/jaysmitjadhav/meme-generator/static/js/main.90755edf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d78b77bf.css",
+    "static/js/main.90755edf.js"
+  ]
+}
